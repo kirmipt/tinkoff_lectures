@@ -8,8 +8,8 @@
 иссл-я для генережки гипотез, метрики приложения, особенности АБ, нелинейный путь польз-ля
 
 https://www.youtube.com/watch?v=mBzfXiGrsCk
-https://www.youtube.com/watch?v=esI7XLtDxy0&list=PLW0TR9r0Cc0YhsqTgNodURDGaaN7BkkiG&index=9
-https://youtu.be/UGpKblNdLC4
+<br>https://www.youtube.com/watch?v=esI7XLtDxy0&list=PLW0TR9r0Cc0YhsqTgNodURDGaaN7BkkiG&index=9
+<br>https://youtu.be/UGpKblNdLC4
 
 # 1 Метрики - пользовательские, конверсия, операционные, NPS PnL NPV, как смотреть на метрики
 https://www.youtube.com/watch?v=mBzfXiGrsCk
