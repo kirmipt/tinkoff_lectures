@@ -1,15 +1,15 @@
 # tinkoff_lectures
 Просмотренные лекции тинькофф по аналитике
-# 1 Метрики (https://www.youtube.com/watch?v=mBzfXiGrsCk)
+# 1 Метрики 
 пользовательские, конверсия, операционные, NPS PnL NPV, как по-разному смотреть на метрики
 # 2 Как принимать решения 
 как по-разному смотреть на метрики(подробнее), поиск причин аномалий, NPV-отчеты
 # 3 Мобильная аналитика 
 иссл-я для генережки гипотез, метрики приложения, особенности АБ, нелинейный путь польз-ля
 
-https://www.youtube.com/watch?v=mBzfXiGrsCk
-<br>https://www.youtube.com/watch?v=esI7XLtDxy0&list=PLW0TR9r0Cc0YhsqTgNodURDGaaN7BkkiG&index=9
-<br>https://youtu.be/UGpKblNdLC4
+1 https://www.youtube.com/watch?v=mBzfXiGrsCk
+<br>2 https://www.youtube.com/watch?v=esI7XLtDxy0&list=PLW0TR9r0Cc0YhsqTgNodURDGaaN7BkkiG&index=9
+<br>3 https://youtu.be/UGpKblNdLC4
 
 # 1 Метрики - пользовательские, конверсия, операционные, NPS PnL NPV, как смотреть на метрики
 https://www.youtube.com/watch?v=mBzfXiGrsCk
